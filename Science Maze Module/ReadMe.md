@@ -1,0 +1,1 @@
+This is a folder containing the maze game I designed and programmed in our game PUPA. The player needs to control a little dot and walk through the maze designed based on physics, chemistry, and biology knowledge.
